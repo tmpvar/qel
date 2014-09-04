@@ -1,0 +1,24 @@
+{
+  "name": "qel",
+  "version": "1.0.0",
+  "description": "wrapper around querySelector(All)",
+  "main": "qel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/qel.git"
+  },
+  "keywords": [
+    "querySelector",
+    "polyfill",
+    "wrapper"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/qel/issues"
+  },
+  "homepage": "https://github.com/tmpvar/qel"
+}
